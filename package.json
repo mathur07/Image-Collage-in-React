@@ -1,5 +1,5 @@
 {
-  "name": "factor-ai",
+  "name": "image-collage-in-react",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -31,5 +31,22 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "Basic implementation of usage of axios in rendering Images in ReactJS",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bob07/Image-Collage-in-React.git"
+  },
+  "keywords": [
+    "Axios",
+    "React"
+  ],
+  "author": "Shubham Mathur",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bob07/Image-Collage-in-React/issues"
+  },
+  "homepage": "https://github.com/bob07/Image-Collage-in-React#readme"
 }
